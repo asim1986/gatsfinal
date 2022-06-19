@@ -4,8 +4,8 @@ const sanityConfig = require('./sanity-config.js');
 module.exports = {
   siteMetadata: {
     title: `Bollywood Story`,
-    siteUrl: `https://techhub-blog.netlify.com`,
-    description: `TechHub Blog is a platform for latest technology news and updates.`,
+    siteUrl: `https://bollywoodstory.com`,
+    description: `Bollywood story, your number one source for latest news & updates from Bollywood. We’re dedicated to providing you the very best of true stories from Bollywood, with an emphasis on actors & actoress lifestyle, Latest movies, latest web series, songs.`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
