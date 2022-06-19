@@ -12,10 +12,7 @@ function Footer() {
       <div className="container">
         <Logo />
         <ParagraphText className="footer__text">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat neque
-          commodi perspiciatis quibusdam delectus voluptas ab eos natus laborum!
-          Veritatis, facilis modi. Ex, adipisci. Ab, atque. Debitis officia qui
-          vero!
+          Bollywood story, your number one source for latest news & updates from Bollywood. We’re dedicated to providing you the very best of true stories from Bollywood, with an emphasis on actors & actoress lifestyle, Latest movies, latest web series, songs.
         </ParagraphText>
         <ul className="footer__menuList">
           {menu.map((item) => (
@@ -32,7 +29,7 @@ function Footer() {
           ))}
         </ul>
         <ParagraphText className="copyright">
-          © TechHub-Blog Creative {new Date().getFullYear()}. All rights
+          © Bollywood Story {new Date().getFullYear()}. All rights
           reserved
         </ParagraphText>
       </div>
